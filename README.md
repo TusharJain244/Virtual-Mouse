@@ -49,3 +49,8 @@ Index bent + thumb far	Left Click
 Middle bent + thumb far	Right Click
 Both bent + thumb far	Double Click
 Both bent + thumb near	Take Screenshot
+
+![my_screenshot_972](https://github.com/user-attachments/assets/adabfa2f-2ba1-4776-bd4f-aeb9335754b7)
+![my_screenshot_997](https://github.com/user-attachments/assets/472b8cec-3d1e-4ab9-b310-68b3b4ac5967)
+
+
